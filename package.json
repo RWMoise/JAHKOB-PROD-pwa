@@ -1,5 +1,6 @@
+
 {
-  "name": "jahkob-prod-app",
+  "name": "jahkob-prod-pwa",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
